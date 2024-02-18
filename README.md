@@ -1,3 +1,6 @@
+# Projetos de Governança - Testes de qualidade de software
+### Descrição
+Este repositório tem como objetivo armazenar os projetos de governança do terceiro ano do curso de Sistemas de Informação da FIAP.
 
 ## 📐 Verifica Poligono - Testes com JUnit4
 O projeto "Verifica Poligono" consiste em uma aplicação simples de verificação geométrica desenvolvida em Java. Ele contém as seguintes classes:
